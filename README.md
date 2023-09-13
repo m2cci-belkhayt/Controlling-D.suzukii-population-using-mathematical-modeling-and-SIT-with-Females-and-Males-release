@@ -1,4 +1,4 @@
- # Sterile Insect Technique (SIT) for Controlling *Drosophila Suzukii Releasing sterile Males and Females*
+ # Sterile Insect Technique (SIT) for Controlling *Drosophila Suzukii by Releasing sterile Males and Females*
 
 Welcome to the README for our research project on the Sterile Insect Technique (SIT) applied to *Drosophila Suzukii* populations. In this repository, we explore the dynamics of *D. suzukii* populations when both sterile females and males are released into the environment, comparing this strategy to the traditional male-only release approach. Our research utilizes Ordinary Differential Equation (ODE) modeling to understand the effectiveness of these release strategies in pest management.
 
